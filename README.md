@@ -34,4 +34,4 @@ private void updateApp() {
 	}
 ```
 
-可以参考我的博客:
+可以参考我的博客:http://blog.csdn.net/QQxiaoqiang1573/article/details/51972124
